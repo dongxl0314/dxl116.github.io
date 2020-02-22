@@ -1,0 +1,21 @@
+# ISEMPTY
+*****
+函数原型：ISEMPTY(text)
+*****
+函数说明：判断值是否为空字符串、空对象或者空数组。
+
+为空返回TRUE()，反之返回FALSE()，其中在系统内部，TRUE() 等同于数值 1, FALSE() 等同于数值 0 。
+
+以下三种方式，均表示该“单选按钮组”字段为空值。（注意，判断的是该单选按钮组字段被编辑后是否为空值）
+~~~
+IF(ISEMPTY(单选按钮组),'A','B')
+IF(ISEMPTY(单选按钮组)==1,'A','B')
+IF(ISEMPTY(单选按钮组)==TRUE(),'A','B')
+~~~
+
+举例如下：
+
+![](http://docfiles.baibaoyun.com/FmeP_eLwv-PE8QwQ6-TBtkeFpoF8)
+
+![](http://docfiles.baibaoyun.com/FnatRRVeLfTcUiMPVXxqPXl2ohrc)
+

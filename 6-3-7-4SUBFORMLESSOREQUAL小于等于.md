@@ -1,0 +1,17 @@
+
+# SUBFORMLESSOREQUAL
+*****
+函数原型：SUBFORMLESSOREQUAL(value1, value2) 
+*****
+函数说明：
+
+比较子表单里的字段value1是否小于等于value2，小于等于返回 true，反之返回false。
+
+**注意：**
+
+此函数公式只能处理子表单里的字段，不能使用子表单以外的字段。
+
+一般应用于表单提交效验里，判断子表单里的数据是否合法。
+
+
+子表单函数的操作与举例，见文档：[【子表单输入数据效验】](https://doc.baibaoyun.com/detailed#detailed/1083)。

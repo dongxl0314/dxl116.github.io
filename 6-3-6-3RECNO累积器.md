@@ -1,0 +1,23 @@
+# RECNO
+*****
+函数原型：RECNO() 
+*****
+函数说明：
+累计器，依据当前表单被新打开的次数进行不断累计，起始值为1。 
+
+可适用于固定前缀或后缀的累加型流水号的使用场景等。
+
+**使用举例：**  CONCATENATE('前缀',RECNO(),'后缀')
+
+~~~
+CONCATENATE("CID",TEXT(TODAY(),"yyyyMMdd"),RIGHT("0000"+RECNO(),4))
+
+结果格式示例为： CID201711070007
+~~~
+
+![](http://docfiles.baibaoyun.com/FjsPxOQi2F5ocrUyQaD4KNd5HnLC)
+
+![](http://docfiles.baibaoyun.com/FpSdKA7O8ZS9HBOrvLeM83L1Tz1N)
+
+每次重新打开表单，最后的编号都会累加增加，如下图：
+![](http://docfiles.baibaoyun.com/FoHUMXAsNTrm5_4-XJXsfnD_GnPe)

@@ -14,9 +14,12 @@
 
 **举例：**
 
-![](http://docfiles.baibaoyun.com/FtfFo97FHdZnKFNrXXfWCyxcfp-a)
+![](../img/6-3-4-2i1.png)
+
 结果如下图：
 
 COUNTIF([90,95,91,88,92],">90")，所以大于90的只有95、91、92三个数，因此结果为3。
-![](http://docfiles.baibaoyun.com/FiQBdYf1tBrtH6iIpwGbd2mbNBbL)
+
+![](../img/6-3-4-2i2.png)
+
 

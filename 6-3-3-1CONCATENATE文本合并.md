@@ -12,5 +12,7 @@ CONCATENATE(A,B,C)，即返回值为ABC
 ~~~
 CONCATENATE(TEXT(DATE(日期时间), "yyyyMMdd"), "-", 姓名, "-BBY-", 学号)
 ~~~
+
 实际效果如下：
-![](http://docfiles.baibaoyun.com/FlF0gZoDz3uqPUc-67GPSLKBEkr0)
+
+![](../img/6-3-3-1i1.png)

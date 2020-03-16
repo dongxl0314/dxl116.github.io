@@ -7,4 +7,4 @@
 
 函数说明：返回某日期的秒数。
 
-![](http://docfiles.baibaoyun.com/FvAaCNUhMbWxseaOjEPxrxwnHpJy)
+![](../img/6-3-5-12i1.png)

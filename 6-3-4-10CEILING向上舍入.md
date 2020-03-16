@@ -7,7 +7,7 @@
 * number: 必需。 要舍入的值。
 * significance: 必需。 要舍入到的倍数。
 
-![](http://docfiles.baibaoyun.com/FhnOsz04Dn1HRxkplp5fAErKU-Od)
+![](../img/6-3-4-10i1.png)
 
 
 

@@ -12,6 +12,6 @@
 
 REPLACE(字符串1,2,4,字符串2)，即将字符串1中的第2位之后的4位（即2,3,4,5位），用字符串2来替换。
 
-![](http://docfiles.baibaoyun.com/Frfq8tLAohqG0pu4YYgjx21Op7F8)
+![](../img/6-3-3-9i1.png)
 
 

@@ -8,4 +8,4 @@
 * num_chars：可选。指定希望提取的字符数。
 *****
 
-![](http://docfiles.baibaoyun.com/FitiUCSMT9OS6a9p2vFloRfuvRzL)
+![](../img/6-3-3-4i1.png)

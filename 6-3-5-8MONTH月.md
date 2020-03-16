@@ -7,4 +7,4 @@
 
 函数说明：返回某日期的月份。 月份是介于 1 到 12 之间的整数。
 
-![](http://docfiles.baibaoyun.com/FlaXpxyfKV1czPeOdKRtWY7OHCRr)
+![](../img/6-3-5-8i1.png)

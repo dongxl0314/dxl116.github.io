@@ -7,7 +7,9 @@
 
 可适用于固定前缀或后缀的累加型流水号的使用场景等。
 
-**使用举例：**  CONCATENATE('前缀',RECNO(),'后缀')
+**使用举例：**
+
+CONCATENATE('前缀',RECNO(),'后缀')
 
 ~~~
 CONCATENATE("CID",TEXT(TODAY(),"yyyyMMdd"),RIGHT("0000"+RECNO(),4))
@@ -15,9 +17,10 @@ CONCATENATE("CID",TEXT(TODAY(),"yyyyMMdd"),RIGHT("0000"+RECNO(),4))
 结果格式示例为： CID201711070007
 ~~~
 
-![](http://docfiles.baibaoyun.com/FjsPxOQi2F5ocrUyQaD4KNd5HnLC)
+![](../img/6-3-6-3i1.png)
 
-![](http://docfiles.baibaoyun.com/FpSdKA7O8ZS9HBOrvLeM83L1Tz1N)
+![](../img/6-3-6-3i2.png)
 
 每次重新打开表单，最后的编号都会累加增加，如下图：
-![](http://docfiles.baibaoyun.com/FoHUMXAsNTrm5_4-XJXsfnD_GnPe)
+
+![](../img/6-3-6-3i3.gif)

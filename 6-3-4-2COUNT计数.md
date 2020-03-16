@@ -4,5 +4,10 @@
 *****
 函数说明：统计参数个数。
 *****
+例如：<br/>
+* COUNTIF([1,2,3,4], “>2”)，结果为2
+* COUNTIF([1,2,3,4], “!=2”)，结果为3
+* COUNTIF([1,2,3,4], “>=1”)，结果为4
+* COUNTIF([“a”, “b”, “c”], “d”)，结果为0
 
-![](http://docfiles.baibaoyun.com/FknC-XEU0rOsxUbuxCVWZ1eJEIei)
+![](../img/6-3-4-2i1.png)

@@ -9,7 +9,7 @@
 
 **举例**
 
-![](http://docfiles.baibaoyun.com/Fo91fOCUUl9sf5dw_liQi-sL8bZd)
+![](../img/6-3-4-4i1.png)
 
-![](http://docfiles.baibaoyun.com/FsUA5zsUxcq7yAlcpNZYjf6jQhSi)
+![](../img/6-3-4-4i2.png)
 

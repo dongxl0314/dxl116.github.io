@@ -1,5 +1,3 @@
-[TOC]
-
 # TRUE
 *****
 函数原型：TRUE()
@@ -14,7 +12,8 @@
 *****
 FALSE和TRUE一样，都是强制括号中的逻辑式为0或1。
 
-# 举例
+**举例：**
+
 TRUE()与FALSE()都是公式函数，在使用时，按照公式函数的使用方法操作即可，如下图：
 
-![](http://docfiles.baibaoyun.com/FimuI53xKyG_r1NrQ8SAvO9IJLXG)
+![](../img/6-3-2-3i1.png)

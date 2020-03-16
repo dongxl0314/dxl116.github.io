@@ -15,7 +15,7 @@ IF(ISEMPTY(单选按钮组)==TRUE(),'A','B')
 
 举例如下：
 
-![](http://docfiles.baibaoyun.com/FmeP_eLwv-PE8QwQ6-TBtkeFpoF8)
+![](../img/6-3-3-16i1.png)
 
-![](http://docfiles.baibaoyun.com/FnatRRVeLfTcUiMPVXxqPXl2ohrc)
+![](../img/6-3-3-16i2.png)
 

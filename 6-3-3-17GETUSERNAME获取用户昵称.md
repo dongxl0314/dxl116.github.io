@@ -8,6 +8,8 @@
 
 举例：与其他字段组合，实现不允许重复提交。例如，每人每天只能填报一条数据。
 
-![](http://docfiles.baibaoyun.com/FvF4XcnKGqnqHsCnBdZFEEoVhACn)
+![](../img/6-3-3-17i1.png)
 
-![](http://docfiles.baibaoyun.com/Fu0OtPfGzzF-h2k5dlpiic_YAycf)
+如下图：数据（20190815-示例）第二次提交
+
+![](../img/6-3-3-17i2.png)

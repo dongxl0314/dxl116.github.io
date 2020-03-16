@@ -7,4 +7,4 @@
 
 函数说明：返回某日期的分钟数。
 
-![](http://docfiles.baibaoyun.com/FmwXxsjGvRQ0AbIoVfpus3E3KZw0)
+![](../img/6-3-5-11i1.png)

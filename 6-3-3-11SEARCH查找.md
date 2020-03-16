@@ -10,7 +10,8 @@
 * start_num: 可选。within_text参数中从之开始搜索的字符编号。
 *****
 
-![](http://docfiles.baibaoyun.com/Fs3XYxc-F_VYitXOaBZaqR9DkwQ9)
+![](../img/6-3-3-11i1.png)
 
 第三个参数的作用与使用方法，如下图：
-![](http://docfiles.baibaoyun.com/FlWuxJ9jT-hZB-kGM7lUt9fkgpPD)
+
+![](../img/6-3-3-11i2.png)

@@ -1,5 +1,3 @@
-[TOC]
-
 # ROUND
 *****
 函数原型：ROUND(number, num_digits)
@@ -9,7 +7,7 @@
 * number: 必需。 要四舍五入的数字。
 * num_digits: 必需。 要进行四舍五入运算的位数。
 
-![](http://docfiles.baibaoyun.com/FrbOEFM3Nm54tKwxSLJ3xvl-GgpQ)
+![](../img/6-3-4-9i1.png)
 
 
 # FIXED
@@ -21,7 +19,7 @@
 * number: 必需。 要进行舍入并转换为文本的数字。
 * decimals: 可选。 小数点右边的位数。
 
-![](http://docfiles.baibaoyun.com/FmlUgp0WJa5SRHPosGBa7yvD4GTM)
+![](../img/6-3-4-9i2.png)
 
 
 

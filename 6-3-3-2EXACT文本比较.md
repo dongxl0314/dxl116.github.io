@@ -7,4 +7,4 @@
 完全相同则返回true，否则返回false。
 *****
 
-![](http://docfiles.baibaoyun.com/FhyD-jxSzVMb-yl3sG3qqD7R4Drf)
+![](../img/6-3-3-2i1.png)

@@ -7,4 +7,4 @@
 * timestamp: 必需。初始日期。
 * deltadays: 必需。需要加减的天数。正数为增加，负数为减少。
 
-![](http://docfiles.baibaoyun.com/FtFiIjNG9wFsNPxKIsWluLQ5-DyZ)
+![](../img/6-3-5-15i1.png)

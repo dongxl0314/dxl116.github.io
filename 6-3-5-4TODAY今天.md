@@ -8,6 +8,7 @@
 **举例：**
 
 今天时间的三种表现形式：
-![](http://docfiles.baibaoyun.com/FuKapc530ugOthZC4aqtkn_JxGiZ)
+
+![](../img/6-3-5-4i1.png)
 
 

@@ -12,8 +12,8 @@
 * return_type: 可选。一数字，确定星期从哪一天开始。默认值为1。
 
 |return_type|一周的第一天为|
-|---|---|
-|1或省略|星期日|
+|    :-:    |     :-:     |
+|   1或省略  |星期日|
 |2|星期一|
 |3|星期二|
 |4|星期三|
@@ -22,7 +22,8 @@
 |7|星期六|
 
 
-![](http://docfiles.baibaoyun.com/FiBrrXngWIkeiuz1_JYbN4Bz_-Nk)
+![](../img/6-3-5-16i1.png)
 
 如下图：2018-01-14 是周日，如果按照周日来计算周数，那么是第三周，如果是按照周1计算，那么是第周二。
-![](http://docfiles.baibaoyun.com/FqFHZOBCpJ_tm2FtMalMsldm-AEA)
+
+![](../img/6-3-5-16i2.png)

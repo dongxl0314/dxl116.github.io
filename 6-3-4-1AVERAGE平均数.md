@@ -5,7 +5,7 @@
 函数说明：返回参数的平均值（算术平均值）。
 *****
 
-![](http://docfiles.baibaoyun.com/FgU5Sf6Do0T5OBkIygpuGwnfCvkR)
+![](../img/6-3-4-1i1.png)
 
 
 
